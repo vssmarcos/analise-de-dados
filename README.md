@@ -4,6 +4,5 @@ Este projeto consiste em uma análise de dados utilizando as principais bibliote
 🛠️ Tecnologias Utilizadas<br>
 Pandas: Manipulação e análise de dados tabulares.<br>
 NumPy: Operações matemáticas e computação numérica.<br>
-Matplotlib & Seaborn: Visualização de dados de forma gráfica e interativa.<br>
-Scikit-learn: Modelagem preditiva e aprendizado de máquina (se aplicável).<br>
+Matplotlib & Seaborn: Visualização de dados de forma gráfica.<br>
 Jupyter Notebook: Desenvolvimento interativo e apresentação dos resultados.<br>
