@@ -5,4 +5,4 @@ Este projeto consiste em uma análise de dados utilizando as principais bibliote
 Pandas: Manipulação e análise de dados tabulares.<br>
 NumPy: Operações matemáticas e computação numérica.<br>
 Matplotlib & Seaborn: Visualização de dados de forma gráfica.<br>
-Jupyter Notebook: Desenvolvimento interativo e apresentação dos resultados.<br>
+
